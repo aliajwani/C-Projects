@@ -1,7 +1,6 @@
 /* 
 * sorting.c
 * Ali Ajwani
-* 251374819 - aajwani2
 * This code allows the user to input numbers or generate random ones for an array, and then 
 * it sorts the numbers in a 2D array 
 */
